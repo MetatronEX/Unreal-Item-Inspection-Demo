@@ -1,7 +1,3 @@
----
-title: "Virtual Item Inspector Demo"
----
-
 # Virtual Item Inspector Demo in Unreal Engine
 
 Simple demo for run time object manipulation.
